@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Mein Krypto-Rechner")
 
-st.title("? Mein Bitcoin-Rechner")
+st.title(" Mein Bitcoin-Rechner")
 st.write("Einfach Bitcoin-Beträge berechnen.")
 
 euro = st.number_input(

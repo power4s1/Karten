@@ -1,3 +1,3 @@
 #Umrechnung BTC/EURO
 
-Version eins
+Version 1.1

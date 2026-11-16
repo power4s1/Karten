@@ -1,3 +1,3 @@
-#Karten
+#Umrechnung BTC/EURO
 
 Version eins
